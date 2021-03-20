@@ -2,8 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning EPU University.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : <a href="https://www.facebook.com/saboproz/">Facebook</a>
-                       Gmail :vidongls12345@gmail.com 
+- 📫 How to reach me : <a href="https://www.facebook.com/saboproz/">Facebook</a>, Gmail :vidongls12345@gmail.com 
 
 
 <!---
