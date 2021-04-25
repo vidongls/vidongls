@@ -9,6 +9,7 @@ vidongls/vidongls is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 <h2>Languages and Tools:</h2>
+<div style='display:flex;'></div>
 <img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png"/>
 <img alt="javascript" width="26px" src="https://img.icons8.com/color/240/000000/javascript.png" />
 <img alt="html5" width="26px" src="https://img.icons8.com/color/240/000000/html-5.png">
