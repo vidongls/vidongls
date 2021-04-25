@@ -39,12 +39,3 @@ Languages and Tools:
 <img alt="Git" width="26px" src="https://img.icons8.com/color/240/000000/git.png">
 </code>](https://git-scm.com/)
 ---
-
-## 📝 Latest Blog Posts
-
-These are my latest posts on [Medium](https://medium.com/@sabesan96) and [Dev.to](https://dev.to/thesabesan):
-<a href="https://github.com/sabesansathananthan">
-<img align="center" alt="sabesan's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=sabesansathananthan&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
-<a href="https://github.com/sabesansathananthan">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sabesansathananthan&layout=compact&theme=radical" />
-</a>
