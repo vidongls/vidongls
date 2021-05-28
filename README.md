@@ -19,5 +19,4 @@ You can click the Preview link to take a look at your changes.
 <!-- <img alt="Git" width="26px" src="https://img.icons8.com/color/240/000000/git.png"> --></div>
 
 ---
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vidongls)]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vidongls&layout=compact)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vidongls) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vidongls&layout=compact)
