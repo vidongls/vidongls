@@ -10,6 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <h2>Languages and Tools:</h2>
 <div style='display:flex;'>
+<img alt="react" width="26px" src="https://img.icons8.com/office/50/000000/react.png"/>
 <img alt="javascript" width="26px" src="https://img.icons8.com/color/240/000000/javascript.png" />
 <img alt="html5" width="26px" src="https://img.icons8.com/color/240/000000/html-5.png">
 <img alt="css3" width="26px" src="https://img.icons8.com/color/240/000000/css3.png">
