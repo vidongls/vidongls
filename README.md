@@ -2,6 +2,7 @@
 - 🌱 I’m currently learning EPU University.
 - 📫 How to reach me : <a href="https://www.facebook.com/saboproz/">Facebook</a>, Gmail :vidongls12345@gmail.com 
 - 💼 This is my cv : <a href="https://github.com/vidongls/vidongls/raw/main/CV_DongVi_TTSFrontend_1.pdf">CV_DongVi_FrontEnd.pdf</a>
+- <br/>
 ![](https://komarev.com/ghpvc/?username=vidongls&color=dc143c)
 
 <!---
