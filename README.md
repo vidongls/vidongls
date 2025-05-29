@@ -4,7 +4,7 @@
 <!--- - 💼 This is my cv : <a href="https://github.com/vidongls/vidongls/raw/main/CV_DongVi_TTSFrontend_1.pdf">CV_DongVi_FrontEnd.pdf</a><br/>
 ![](https://komarev.com/ghpvc/?username=vidongls&color=blueviolet) --->
 
-c
+<!---
 vidongls/vidongls is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
