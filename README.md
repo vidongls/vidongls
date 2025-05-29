@@ -5,7 +5,7 @@ A passionate Frontend Developer specializing in modern web technologies like Rea
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ivgnod) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vidongls12345@gmail.com) 
 
 # 💻 Languages and Tools:
-<p align="left">
+<p align="left" style="display: 'flex', gap: '8px'">
   <!-- Core Frontend -->
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
